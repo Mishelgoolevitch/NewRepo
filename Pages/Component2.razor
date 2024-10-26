@@ -1,0 +1,95 @@
+﻿@page "/add-reducer"
+@using System.Linq
+@using Microsoft.EntityFrameworkCore
+@inject AppDbContext DbContext
+@inject IJSRuntime JS
+@using CarReduserBlazer.Data
+@inject AppDbContext DbContext
+
+
+<div class="container mt-4">
+    <div class="card">
+        <div class="card-header">
+            <h5 class="card-title">Форма добавления редуктора</h5>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <label for="name" class="form-label">Название:</label>
+                <input type="text" id="name" class="form-control" @bind="newReducer.Name" placeholder="Введите название" />
+            </div>
+
+            <div class="mb-3">
+                <label for="outputTorque" class="form-label">Выходной крутящий момент (Nm):</label>
+                <input type="number" id="outputTorque" class="form-control" @bind="newReducer.OutputTorque" placeholder="Введите выходной крутящий момент" />
+            </div>
+
+            <button class="btn btn-primary" @onclick="AddReducer">Добавить редуктор</button>
+
+            @if (message != null)
+            {
+                <div class="alert alert-info mt-3">@message</div>
+            }
+        </div>
+    </div>
+</div>
+
+@if (message != null)
+{
+    <p>@message</p>
+}
+<table class="table table-striped table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Тип</th>
+            <th>Имя</th>
+            <th>Колеса</th>
+            <th>Передат. соотношение</th>
+            <th>Вход. крутящий момент (Nm)</th>
+            <th>Выход. крутящий момент (Nm)</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reducer in Reducers)
+        {
+            <tr>
+                <td>@reducer.Type</td>
+                <td>@reducer.Name</td>
+                <td>@reducer.NumberOfWheels</td>
+                <td>@reducer.GearRatio</td>
+                <td>@reducer.InputTorque.ToString("F2")</td>
+                <td>@reducer.OutputTorque.ToString("F2")</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    public List<Reducer> Reducers;
+    protected override void OnInitialized()
+    {
+        Reducers = DbContext.Reducers.ToList();
+    }
+    private Reducer newReducer = new Reducer();
+    private string message;
+
+    private async Task AddReducer()
+    {
+        if (string.IsNullOrWhiteSpace(newReducer.Name) || newReducer.OutputTorque <= 0)
+        {
+            message = "Пожалуйста, заполните все поля корректно.";
+            return;
+        }
+
+        DbContext.Reducers.Add(newReducer);
+        await DbContext.SaveChangesAsync();
+
+        message = "Редуктор успешно добавлен!";
+        newReducer = new Reducer(); // Очистить форму после добавления
+    }
+}
+
+
+
+

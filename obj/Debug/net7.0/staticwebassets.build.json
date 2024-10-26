@@ -1,0 +1,4481 @@
+{
+  "Version": 1,
+  "Hash": "eqaXF62lKcNzkeiYp2P+niqO8ZgnIfsFFt/nTUaThN0=",
+  "Source": "CarReduserBlazer",
+  "BasePath": "_content/CarReduserBlazer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarReduserBlazer\\wwwroot",
+      "Source": "CarReduserBlazer",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\obj\\Debug\\net7.0\\jsmodules\\jsmodules.build.manifest.json",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\obj\\Debug\\net7.0\\jsmodules\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "CarReduserBlazer.modules.json",
+      "AssetKind": "Build",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "JSModule",
+      "AssetTraitValue": "JSModuleManifest",
+      "Fingerprint": "6wvnjuwtoj",
+      "Integrity": "ypPVmncPDdO4Nsr9tBg/D7h+RtKDzLKVNBLbJhCU/Lk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "obj\\Debug\\net7.0\\jsmodules\\jsmodules.build.manifest.json"
+    },
+    {
+      "Identity": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\custom.css",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "css/custom#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8by125vyo8",
+      "Integrity": "9Ek5RCiV4wlTGFKTTOUFsrKXDUZmwvcDbNiDCAHJ9jo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
+    },
+    {
+      "Identity": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\site.css",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qvbxwdr9tu",
+      "Integrity": "muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\chart.js",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "js/chart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8da0j1485o",
+      "Integrity": "fAs1q+HRqodu1U0WPbg9bWIQNQFGzVoEz20kE3yquPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chart.js"
+    },
+    {
+      "Identity": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\download.js",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "js/download#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "edejgf8pff",
+      "Integrity": "gju/0JOyacAi4LQZgm+hp7GnssCZLDpiDc1RppbrL/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\download.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "SourceId": "CarReduserBlazer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\",
+      "BasePath": "_content/CarReduserBlazer",
+      "RelativePath": "ChartJsBlazorInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ox6r4gbs",
+      "Integrity": "+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js",
+      "SourceId": "ChartJs.Blazor.Fork",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\",
+      "BasePath": "_content/ChartJs.Blazor.Fork",
+      "RelativePath": "ChartJsBlazorInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "49ox6r4gbs",
+      "Integrity": "+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "309.facf7d11d0b5a5d9d591.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c5exymiv53",
+      "Integrity": "IOCcUpvSAd6YXYML3vEaOC96CFAmYwcrE4nVNO0jbx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "309.facf7d11d0b5a5d9d591.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5xjksnbbwt",
+      "Integrity": "J5YIjyyUUoqcZV3DP/EKlRp0O/4yeRvK5YNGPzbHspE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "436.d05a2871ca68f1ee9355.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zczgmm11bi",
+      "Integrity": "/apVyem5q46t4TEOS8PWeo4Yv/OP5FL7E9KERYU9bp0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "436.d05a2871ca68f1ee9355.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bm43e73z7r",
+      "Integrity": "3Ys512A3Rnn2lRv3BOepNNL16/DHSx1XFmi/ioJeFL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "673.91c73604cd070dbee41a.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1enqh2c8f",
+      "Integrity": "JvviSUT/4PmwPk0+HHnGEjIM6GipmJEBVaz4IokCluQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.LICENSE.txt",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "673.91c73604cd070dbee41a.bundle.js.LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b1pa4frbj0",
+      "Integrity": "wdILYNIZazWNk7KoD5alH3EfSfQSUsgfWnNVv8XjB3M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "673.91c73604cd070dbee41a.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jis78gd0la",
+      "Integrity": "G6QNa1F6UMIjnKKxKcnm1xGLVGc4kWUqCt+L06m0rFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "72.faa71eb6819fc65b305b.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9zb46dt9rc",
+      "Integrity": "pT9XsyDx8ehTMhkySjGXITbwkEnfq8JSKJ8vLzEujfg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "72.faa71eb6819fc65b305b.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2jq8dtu4p",
+      "Integrity": "D48SMxyqmAoh6FCINdwK0bchLKArTq9GeDPXbMCrgR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "793.00e41a95350acc39f172.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w5w9hifx0e",
+      "Integrity": "FHTamvU/UANs1gyQrk83naTLTP6GZRm2UBiCh3fV3qI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.LICENSE.txt",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "793.00e41a95350acc39f172.bundle.js.LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vlv9sjmma8",
+      "Integrity": "vU9CJ3zaRTedcVklxUKVrSa/4C0Mpu4VsDdjoWNQnrc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "793.00e41a95350acc39f172.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i81jipqytx",
+      "Integrity": "/vxtOMRerWWkj8p8KNEv2HOOtAaMn/DIdDLzp1zdZeQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "app.417809eb7c77b026f88b.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "603h4ebzgo",
+      "Integrity": "dhUwNzdcSopQ907Z3I7iVP79NWaotSdqJMq0eR+Lemo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.LICENSE.txt",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "app.417809eb7c77b026f88b.bundle.js.LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hczioqp6ju",
+      "Integrity": "cVNiiL7ZdKNlZWbsiO3U2e04NrH36RnRKNmdDBbIf6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "app.417809eb7c77b026f88b.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lx4r0ybze2",
+      "Integrity": "R3bUKiTwYTXCEQianFgu0nbWbGWIxSb91cKJ5J35/cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bootstrap.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "app.bootstrap.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4eg75aw2e",
+      "Integrity": "i+b8IKrykz0CvtvzJc3quKBNVdOt7E0cg9QC9/54sUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "app.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "101um6onoj",
+      "Integrity": "kU7+qxp7WHkASnjw5qpyfYTkcX7g+cPmnG0wbCiN0ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "heatWorker.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27hg6cwuh6",
+      "Integrity": "8k5U0MK9asi97FEKBUmN4e4A+sAJ2K/t1sHKfmVv+8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.LICENSE.txt",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "heatWorker.js.LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mz8s23gf2n",
+      "Integrity": "fvUTnQoRpuL8jwMX17SwOeOtFtwqeElFn4Sfd2U3atE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "heatWorker.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oxlwo063jg",
+      "Integrity": "DG8mk+8+96IjgU1r0CoDjfdQck4CMUmJP/DvOQYeyDE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-angular-elements.d221235fac59b3a3696e.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g6nckw427l",
+      "Integrity": "qCsOMZMilNCJyVzPU1FRE8Sf52gYuBlVtchrfD7C32U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-angular-elements.d221235fac59b3a3696e.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxk0e2ytwj",
+      "Integrity": "AiCaPzJ8B16sQSWpIFBabgCns+jyNlATra8rxh4RBdc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bxjy3fy118",
+      "Integrity": "X3gkfFTLS1IL49Jjc7rsxdp50oQhSqzROQVlDROLZ3E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.LICENSE.txt",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a4cpawce59",
+      "Integrity": "mhNcbEnByEJxJzOXT7oCQlJIWr7Kjp13x8xRs9KQeEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fh040e2oh7",
+      "Integrity": "c/M4iNOHFLpK/5eMX/SxkrSv2LQcVsw8Q2UlDVOVTQw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9scurk3m13",
+      "Integrity": "x+jdz72RiwWJsPBFbONwEA7CG8VXAKlnNTX6QxVrXZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pe1yintced",
+      "Integrity": "X+aDUex4dCn/0P7qH2ukbnRxOGpvLiBC0M1LSNoUOOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1thufrbtkg",
+      "Integrity": "pWAM1esbEswbsYVusk3tfe/tTGWbyu03aFE0lZwHWIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r7kz5gsjrx",
+      "Integrity": "FzaXDCwlh3gJM6puEjWdDdTVwEvVBwwvi6aQAu6AEZM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70mr3gm58r",
+      "Integrity": "2ZT+Tb4v0mG5X1GFGZr8oFf2+EQcW1WKpuaEBhzMgWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpb10xxfd6",
+      "Integrity": "dhp0WOHl3xq2CsT8pw3SduBTWFbPwKibto4/1P3m85I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e7jl5jgpf6",
+      "Integrity": "euXlfYeYwk0joc8AlY5pnLnj/c3TYaSh094guQNMutw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g3z5f18iox",
+      "Integrity": "7FM0N1TejV5gpM8K93nFmt+DUYNVeLN6t/KvEP50vNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4eves7e2wp",
+      "Integrity": "lPE5HxSR9jWRsRY9VBR+6BL3zwYSQ5goLkQM9KdI6CU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tz1hffwpul",
+      "Integrity": "WW+UY7FT6oVBxiHyo2ZUe2y9LBxNk49qCwHXP1tkwFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn4ylx8pzz",
+      "Integrity": "EmXdlo4GZRcuIt5V/9c6b3AvtQekuWPdWXaLRzr9oOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ml4896zkb5",
+      "Integrity": "toUIYR5HIC61v5+dwaxZiWocPTYnMmlYDza2JP9w3uE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "py4ele2op6",
+      "Integrity": "X6LBPBHQEhq4rT9gtzJg357SKKpe/JoP0BH7shHCLNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rgs4muovdc",
+      "Integrity": "5Ujp0AFtynvhpHbyslZ2UuVFKIk8pWXt+JzKOdiAbDs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeukqe6psj",
+      "Integrity": "BzfbylzGsG6CEWK4hc3wr8TpN291DTNOXNh6S2veZls=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3o4luh4hc",
+      "Integrity": "8S+JKBCH7pvTqPmVePjiJdZTv+Hj19SFTf1Qgi8Lt44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m8gbishqtm",
+      "Integrity": "9vimbUA/pk8hD0wRyN8+2bR9qBcWUha71Tg3JO3y1Tw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "okyyhgm32q",
+      "Integrity": "iPSWii+6rKs0UNEYrNkRquIE99qf4n4v6+WbvCALm9I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webinputs.8940e02b75dc6c260b68.bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zb3bksqp7x",
+      "Integrity": "n0lJ3WlTaUo8/uZGB7riDMgSzWI/iq9KJ2tasSOrEWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js.map",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "igniteui-webinputs.8940e02b75dc6c260b68.bundle.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0u3mfsjpvz",
+      "Integrity": "6Iu3fA/OT5ITXTs5K3CO1gNKn3/i/vT4pO9YOWlkzOo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.lib.module.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "IgniteUI.Blazor.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "066e2vbgmv",
+      "Integrity": "uORy+aJuf+NL3opAXGWiTBpPI+BnblxY6vnCWzpOLRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.lib.module.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.Trial.lib.module.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "IgniteUI.Blazor.Trial.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "JSModule",
+      "AssetTraitValue": "JSLibraryModule",
+      "Fingerprint": "igcipsasup",
+      "Integrity": "klgv/PlG1fo+jtrI57zcGNb1UictNPqf2CLrXRC83xY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.Trial.lib.module.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.BlazorDebug.lib.module.js",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "IgniteUI.BlazorDebug.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2uuxraylb7",
+      "Integrity": "piLHFQ1vNa32Cv+8CZ9Zb9TmZ9j6lizGpux66vblbYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.BlazorDebug.lib.module.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\bootstrap.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/dark/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pfjk9w3y3v",
+      "Integrity": "ZXiqQBiwDxJXJQ62HHmL5H1H+z4uwFMmYhIfMDhL0xI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\fluent.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/dark/fluent.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8dk091y72",
+      "Integrity": "/9NQt7FSSaoXk9cjZ3fhQzYbYQyDB6LHpcf1v9RW9rc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\fluent.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\indigo.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/dark/indigo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqbaj82ont",
+      "Integrity": "+IzSKC3Hr+p/rgyutaPfzrVChXD1zLgnMqnz18yX/iU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\indigo.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\material.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/dark/material.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d1wq7gv12w",
+      "Integrity": "sftzH910ChgfcG3FqW+Gj3GGqio/+79YIhlaMgdi4xg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\material.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_util.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/_util.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lv5tvmajl9",
+      "Integrity": "AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_util.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_variables.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/_variables.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lv5tvmajl9",
+      "Integrity": "AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_variables.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\bootstrap.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/dark/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f6htqslrv1",
+      "Integrity": "yanGgajiuL7kQWR7ocFClzciMAtoizcBvpXG2RvPDbo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\fluent.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/dark/fluent.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bghadjhrxj",
+      "Integrity": "JWCTHga6TAuRHkMgbb79ZkyliTzKFXov7k9wp1eZwns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\fluent.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\indigo.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/dark/indigo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y6euyhbf26",
+      "Integrity": "WlkHxUCi7YJ4B4wTkY5hbpe2juni14ecISzDOSxTHCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\indigo.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\material.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/dark/material.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ookqwdlhj7",
+      "Integrity": "yBABYmI4nJzDn7JWWLM4/vb9MFuNbfoxPN3Pr0c++U4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\material.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\bootstrap.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/light/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2sl5mj9swh",
+      "Integrity": "fnAT9S8NZ1bW2kx2iUzRNjot/wcD1R8SkA94QhObfhI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\fluent.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/light/fluent.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "frpzih4spu",
+      "Integrity": "K+MHzFeFAXclRpXRr1rrv7imgy+B0xeVAqj6hHK0lYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\fluent.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\indigo.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/light/indigo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qk1ihpe5of",
+      "Integrity": "hlIX4q1u/NiXkUQPp8hHb/GIcUq5w92QG+i90NPBlTE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\indigo.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\material.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/grid/light/material.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x6gkt4d49u",
+      "Integrity": "B9SR6f/4VdXELVDy2ATIG1HD84Bb0zTZJo7Da58vlK8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\material.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\bootstrap.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/light/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27x9aet79i",
+      "Integrity": "sh1KgjDmLfiI9o6JwBxviiwCOqBa/CsLchmFAEt24uo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\fluent.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/light/fluent.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tkj8wkmdv3",
+      "Integrity": "41oRWGlWndakNdZq2kVfdu9yTEJ3Hd5GUX7fiyyBjy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\fluent.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\indigo.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/light/indigo.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p7sykncvlt",
+      "Integrity": "q2zqGSYVazTkBX2A1bhSikuiE1nk9kt5UY7VyoSFzis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\indigo.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\material.css",
+      "SourceId": "IgniteUI.Blazor.Trial",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\",
+      "BasePath": "_content/IgniteUI.Blazor",
+      "RelativePath": "themes/light/material.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b1l6vaie22",
+      "Integrity": "/zbK3P+rhWQcJNcinEsrhsgV3bc2yj4fItH1iYVfdPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\material.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/ChartJs.Blazor.Fork/ChartJsBlazorInterop.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\staticwebassets\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/309.facf7d11d0b5a5d9d591.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IOCcUpvSAd6YXYML3vEaOC96CFAmYwcrE4nVNO0jbx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IOCcUpvSAd6YXYML3vEaOC96CFAmYwcrE4nVNO0jbx4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/309.facf7d11d0b5a5d9d591.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\309.facf7d11d0b5a5d9d591.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J5YIjyyUUoqcZV3DP/EKlRp0O/4yeRvK5YNGPzbHspE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J5YIjyyUUoqcZV3DP/EKlRp0O/4yeRvK5YNGPzbHspE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/436.d05a2871ca68f1ee9355.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/apVyem5q46t4TEOS8PWeo4Yv/OP5FL7E9KERYU9bp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/apVyem5q46t4TEOS8PWeo4Yv/OP5FL7E9KERYU9bp0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/436.d05a2871ca68f1ee9355.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\436.d05a2871ca68f1ee9355.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Ys512A3Rnn2lRv3BOepNNL16/DHSx1XFmi/ioJeFL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Ys512A3Rnn2lRv3BOepNNL16/DHSx1XFmi/ioJeFL0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/673.91c73604cd070dbee41a.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JvviSUT/4PmwPk0+HHnGEjIM6GipmJEBVaz4IokCluQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JvviSUT/4PmwPk0+HHnGEjIM6GipmJEBVaz4IokCluQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/673.91c73604cd070dbee41a.bundle.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wdILYNIZazWNk7KoD5alH3EfSfQSUsgfWnNVv8XjB3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wdILYNIZazWNk7KoD5alH3EfSfQSUsgfWnNVv8XjB3M="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/673.91c73604cd070dbee41a.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\673.91c73604cd070dbee41a.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G6QNa1F6UMIjnKKxKcnm1xGLVGc4kWUqCt+L06m0rFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G6QNa1F6UMIjnKKxKcnm1xGLVGc4kWUqCt+L06m0rFQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/72.faa71eb6819fc65b305b.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pT9XsyDx8ehTMhkySjGXITbwkEnfq8JSKJ8vLzEujfg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pT9XsyDx8ehTMhkySjGXITbwkEnfq8JSKJ8vLzEujfg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/72.faa71eb6819fc65b305b.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\72.faa71eb6819fc65b305b.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1728"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D48SMxyqmAoh6FCINdwK0bchLKArTq9GeDPXbMCrgR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D48SMxyqmAoh6FCINdwK0bchLKArTq9GeDPXbMCrgR4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/793.00e41a95350acc39f172.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FHTamvU/UANs1gyQrk83naTLTP6GZRm2UBiCh3fV3qI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FHTamvU/UANs1gyQrk83naTLTP6GZRm2UBiCh3fV3qI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/793.00e41a95350acc39f172.bundle.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vU9CJ3zaRTedcVklxUKVrSa/4C0Mpu4VsDdjoWNQnrc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vU9CJ3zaRTedcVklxUKVrSa/4C0Mpu4VsDdjoWNQnrc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/793.00e41a95350acc39f172.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\793.00e41a95350acc39f172.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/vxtOMRerWWkj8p8KNEv2HOOtAaMn/DIdDLzp1zdZeQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/vxtOMRerWWkj8p8KNEv2HOOtAaMn/DIdDLzp1zdZeQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/app.417809eb7c77b026f88b.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "925849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhUwNzdcSopQ907Z3I7iVP79NWaotSdqJMq0eR+Lemo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhUwNzdcSopQ907Z3I7iVP79NWaotSdqJMq0eR+Lemo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/app.417809eb7c77b026f88b.bundle.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cVNiiL7ZdKNlZWbsiO3U2e04NrH36RnRKNmdDBbIf6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cVNiiL7ZdKNlZWbsiO3U2e04NrH36RnRKNmdDBbIf6Q="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/app.417809eb7c77b026f88b.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.417809eb7c77b026f88b.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3792364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R3bUKiTwYTXCEQianFgu0nbWbGWIxSb91cKJ5J35/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R3bUKiTwYTXCEQianFgu0nbWbGWIxSb91cKJ5J35/cw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/app.bootstrap.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "731"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i+b8IKrykz0CvtvzJc3quKBNVdOt7E0cg9QC9/54sUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i+b8IKrykz0CvtvzJc3quKBNVdOt7E0cg9QC9/54sUQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/app.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\app.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kU7+qxp7WHkASnjw5qpyfYTkcX7g+cPmnG0wbCiN0ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kU7+qxp7WHkASnjw5qpyfYTkcX7g+cPmnG0wbCiN0ig="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/heatWorker.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8k5U0MK9asi97FEKBUmN4e4A+sAJ2K/t1sHKfmVv+8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8k5U0MK9asi97FEKBUmN4e4A+sAJ2K/t1sHKfmVv+8w="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/heatWorker.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fvUTnQoRpuL8jwMX17SwOeOtFtwqeElFn4Sfd2U3atE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fvUTnQoRpuL8jwMX17SwOeOtFtwqeElFn4Sfd2U3atE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/heatWorker.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\heatWorker.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DG8mk+8+96IjgU1r0CoDjfdQck4CMUmJP/DvOQYeyDE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DG8mk+8+96IjgU1r0CoDjfdQck4CMUmJP/DvOQYeyDE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-angular-elements.d221235fac59b3a3696e.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1916661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qCsOMZMilNCJyVzPU1FRE8Sf52gYuBlVtchrfD7C32U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qCsOMZMilNCJyVzPU1FRE8Sf52gYuBlVtchrfD7C32U="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-angular-elements.d221235fac59b3a3696e.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-angular-elements.d221235fac59b3a3696e.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5155741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AiCaPzJ8B16sQSWpIFBabgCns+jyNlATra8rxh4RBdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AiCaPzJ8B16sQSWpIFBabgCns+jyNlATra8rxh4RBdc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "175705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X3gkfFTLS1IL49Jjc7rsxdp50oQhSqzROQVlDROLZ3E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X3gkfFTLS1IL49Jjc7rsxdp50oQhSqzROQVlDROLZ3E="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mhNcbEnByEJxJzOXT7oCQlJIWr7Kjp13x8xRs9KQeEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mhNcbEnByEJxJzOXT7oCQlJIWr7Kjp13x8xRs9KQeEA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-dockmanager.b4b6a324ccbf9b150635.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/M4iNOHFLpK/5eMX/SxkrSv2LQcVsw8Q2UlDVOVTQw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/M4iNOHFLpK/5eMX/SxkrSv2LQcVsw8Q2UlDVOVTQw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2916300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x+jdz72RiwWJsPBFbONwEA7CG8VXAKlnNTX6QxVrXZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x+jdz72RiwWJsPBFbONwEA7CG8VXAKlnNTX6QxVrXZA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-charts.a295e07cc585f617739d.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12621577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X+aDUex4dCn/0P7qH2ukbnRxOGpvLiBC0M1LSNoUOOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X+aDUex4dCn/0P7qH2ukbnRxOGpvLiBC0M1LSNoUOOs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2728916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pWAM1esbEswbsYVusk3tfe/tTGWbyu03aFE0lZwHWIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pWAM1esbEswbsYVusk3tfe/tTGWbyu03aFE0lZwHWIk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-core.c12ab35a2e6ad8a062d9.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10576117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FzaXDCwlh3gJM6puEjWdDdTVwEvVBwwvi6aQAu6AEZM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FzaXDCwlh3gJM6puEjWdDdTVwEvVBwwvi6aQAu6AEZM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ZT+Tb4v0mG5X1GFGZr8oFf2+EQcW1WKpuaEBhzMgWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ZT+Tb4v0mG5X1GFGZr8oFf2+EQcW1WKpuaEBhzMgWU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-gauges.590ac0cf030744edb8e2.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dhp0WOHl3xq2CsT8pw3SduBTWFbPwKibto4/1P3m85I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dhp0WOHl3xq2CsT8pw3SduBTWFbPwKibto4/1P3m85I="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1163784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"euXlfYeYwk0joc8AlY5pnLnj/c3TYaSh094guQNMutw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-euXlfYeYwk0joc8AlY5pnLnj/c3TYaSh094guQNMutw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-grids.8badb588b80258188bf9.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4712793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7FM0N1TejV5gpM8K93nFmt+DUYNVeLN6t/KvEP50vNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7FM0N1TejV5gpM8K93nFmt+DUYNVeLN6t/KvEP50vNk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "453457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lPE5HxSR9jWRsRY9VBR+6BL3zwYSQ5goLkQM9KdI6CU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lPE5HxSR9jWRsRY9VBR+6BL3zwYSQ5goLkQM9KdI6CU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-inputs.b20087ed26fc70725064.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1703350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WW+UY7FT6oVBxiHyo2ZUe2y9LBxNk49qCwHXP1tkwFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WW+UY7FT6oVBxiHyo2ZUe2y9LBxNk49qCwHXP1tkwFg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmXdlo4GZRcuIt5V/9c6b3AvtQekuWPdWXaLRzr9oOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmXdlo4GZRcuIt5V/9c6b3AvtQekuWPdWXaLRzr9oOQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-layouts.e026f21069a410a11a9d.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1081162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"toUIYR5HIC61v5+dwaxZiWocPTYnMmlYDza2JP9w3uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-toUIYR5HIC61v5+dwaxZiWocPTYnMmlYDza2JP9w3uE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X6LBPBHQEhq4rT9gtzJg357SKKpe/JoP0BH7shHCLNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X6LBPBHQEhq4rT9gtzJg357SKKpe/JoP0BH7shHCLNk="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents-maps.0d5fff1babc34ce9ae98.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "557685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5Ujp0AFtynvhpHbyslZ2UuVFKIk8pWXt+JzKOdiAbDs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5Ujp0AFtynvhpHbyslZ2UuVFKIk8pWXt+JzKOdiAbDs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1616727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BzfbylzGsG6CEWK4hc3wr8TpN291DTNOXNh6S2veZls=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BzfbylzGsG6CEWK4hc3wr8TpN291DTNOXNh6S2veZls="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webcomponents.c30bffc59cedc7905af1.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2447045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8S+JKBCH7pvTqPmVePjiJdZTv+Hj19SFTf1Qgi8Lt44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8S+JKBCH7pvTqPmVePjiJdZTv+Hj19SFTf1Qgi8Lt44="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "201430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9vimbUA/pk8hD0wRyN8+2bR9qBcWUha71Tg3JO3y1Tw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9vimbUA/pk8hD0wRyN8+2bR9qBcWUha71Tg3JO3y1Tw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webgrids.e45fb8f7dfdeca97b391.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "924764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPSWii+6rKs0UNEYrNkRquIE99qf4n4v6+WbvCALm9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPSWii+6rKs0UNEYrNkRquIE99qf4n4v6+WbvCALm9I="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webinputs.8940e02b75dc6c260b68.bundle.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35994"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0lJ3WlTaUo8/uZGB7riDMgSzWI/iq9KJ2tasSOrEWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0lJ3WlTaUo8/uZGB7riDMgSzWI/iq9KJ2tasSOrEWQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/igniteui-webinputs.8940e02b75dc6c260b68.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\igniteui-webinputs.8940e02b75dc6c260b68.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "183908"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6Iu3fA/OT5ITXTs5K3CO1gNKn3/i/vT4pO9YOWlkzOo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6Iu3fA/OT5ITXTs5K3CO1gNKn3/i/vT4pO9YOWlkzOo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/IgniteUI.Blazor.lib.module.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.lib.module.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uORy+aJuf+NL3opAXGWiTBpPI+BnblxY6vnCWzpOLRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uORy+aJuf+NL3opAXGWiTBpPI+BnblxY6vnCWzpOLRE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/IgniteUI.Blazor.Trial.lib.module.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.Blazor.Trial.lib.module.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"klgv/PlG1fo+jtrI57zcGNb1UictNPqf2CLrXRC83xY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-klgv/PlG1fo+jtrI57zcGNb1UictNPqf2CLrXRC83xY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/IgniteUI.BlazorDebug.lib.module.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\IgniteUI.BlazorDebug.lib.module.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"piLHFQ1vNa32Cv+8CZ9Zb9TmZ9j6lizGpux66vblbYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:38:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-piLHFQ1vNa32Cv+8CZ9Zb9TmZ9j6lizGpux66vblbYM="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/dark/bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42955"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZXiqQBiwDxJXJQ62HHmL5H1H+z4uwFMmYhIfMDhL0xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZXiqQBiwDxJXJQ62HHmL5H1H+z4uwFMmYhIfMDhL0xI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/dark/fluent.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\fluent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42241"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/9NQt7FSSaoXk9cjZ3fhQzYbYQyDB6LHpcf1v9RW9rc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/9NQt7FSSaoXk9cjZ3fhQzYbYQyDB6LHpcf1v9RW9rc="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/dark/indigo.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\indigo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+IzSKC3Hr+p/rgyutaPfzrVChXD1zLgnMqnz18yX/iU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+IzSKC3Hr+p/rgyutaPfzrVChXD1zLgnMqnz18yX/iU="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/dark/material.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\dark\\material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sftzH910ChgfcG3FqW+Gj3GGqio/+79YIhlaMgdi4xg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sftzH910ChgfcG3FqW+Gj3GGqio/+79YIhlaMgdi4xg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/_util.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_util.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/_variables.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\_variables.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/dark/bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448567"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yanGgajiuL7kQWR7ocFClzciMAtoizcBvpXG2RvPDbo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yanGgajiuL7kQWR7ocFClzciMAtoizcBvpXG2RvPDbo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/dark/fluent.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\fluent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWCTHga6TAuRHkMgbb79ZkyliTzKFXov7k9wp1eZwns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWCTHga6TAuRHkMgbb79ZkyliTzKFXov7k9wp1eZwns="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/dark/indigo.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\indigo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "456659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WlkHxUCi7YJ4B4wTkY5hbpe2juni14ecISzDOSxTHCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WlkHxUCi7YJ4B4wTkY5hbpe2juni14ecISzDOSxTHCA="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/dark/material.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\dark\\material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452815"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yBABYmI4nJzDn7JWWLM4/vb9MFuNbfoxPN3Pr0c++U4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yBABYmI4nJzDn7JWWLM4/vb9MFuNbfoxPN3Pr0c++U4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/light/bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fnAT9S8NZ1bW2kx2iUzRNjot/wcD1R8SkA94QhObfhI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fnAT9S8NZ1bW2kx2iUzRNjot/wcD1R8SkA94QhObfhI="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/light/fluent.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\fluent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "852475"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K+MHzFeFAXclRpXRr1rrv7imgy+B0xeVAqj6hHK0lYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K+MHzFeFAXclRpXRr1rrv7imgy+B0xeVAqj6hHK0lYQ="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/light/indigo.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\indigo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452182"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hlIX4q1u/NiXkUQPp8hHb/GIcUq5w92QG+i90NPBlTE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hlIX4q1u/NiXkUQPp8hHb/GIcUq5w92QG+i90NPBlTE="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/grid/light/material.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\grid\\light\\material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "452730"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B9SR6f/4VdXELVDy2ATIG1HD84Bb0zTZJo7Da58vlK8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B9SR6f/4VdXELVDy2ATIG1HD84Bb0zTZJo7Da58vlK8="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/light/bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sh1KgjDmLfiI9o6JwBxviiwCOqBa/CsLchmFAEt24uo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sh1KgjDmLfiI9o6JwBxviiwCOqBa/CsLchmFAEt24uo="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/light/fluent.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\fluent.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"41oRWGlWndakNdZq2kVfdu9yTEJ3Hd5GUX7fiyyBjy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-41oRWGlWndakNdZq2kVfdu9yTEJ3Hd5GUX7fiyyBjy4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/light/indigo.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\indigo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "28288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q2zqGSYVazTkBX2A1bhSikuiE1nk9kt5UY7VyoSFzis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q2zqGSYVazTkBX2A1bhSikuiE1nk9kt5UY7VyoSFzis="
+        }
+      ]
+    },
+    {
+      "Route": "_content/IgniteUI.Blazor/themes/light/material.css",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\igniteui.blazor.trial\\24.1.46\\staticwebassets\\themes\\light\\material.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/zbK3P+rhWQcJNcinEsrhsgV3bc2yj4fItH1iYVfdPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Sep 2024 04:30:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/zbK3P+rhWQcJNcinEsrhsgV3bc2yj4fItH1iYVfdPY="
+        }
+      ]
+    },
+    {
+      "Route": "CarReduserBlazer.modules.json",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\obj\\Debug\\net7.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypPVmncPDdO4Nsr9tBg/D7h+RtKDzLKVNBLbJhCU/Lk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Sep 2024 11:06:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypPVmncPDdO4Nsr9tBg/D7h+RtKDzLKVNBLbJhCU/Lk="
+        }
+      ]
+    },
+    {
+      "Route": "ChartJsBlazorInterop.49ox6r4gbs.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "49ox6r4gbs"
+        },
+        {
+          "Name": "label",
+          "Value": "ChartJsBlazorInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "ChartJsBlazorInterop.js",
+      "AssetFile": "C:\\Users\\user\\.nuget\\packages\\chartjs.blazor.fork\\2.0.2\\contentFiles\\any\\netstandard2.1\\wwwroot\\ChartJsBlazorInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Jan 2021 07:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LTDLTFQOAzv/Zs6t+iLN+sImMB14wosmwDodz8KGH8="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.8by125vyo8.css",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Ek5RCiV4wlTGFKTTOUFsrKXDUZmwvcDbNiDCAHJ9jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 14:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8by125vyo8"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Ek5RCiV4wlTGFKTTOUFsrKXDUZmwvcDbNiDCAHJ9jo="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9Ek5RCiV4wlTGFKTTOUFsrKXDUZmwvcDbNiDCAHJ9jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 14:40:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9Ek5RCiV4wlTGFKTTOUFsrKXDUZmwvcDbNiDCAHJ9jo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 23:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qvbxwdr9tu.css",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 23:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qvbxwdr9tu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-muHNs+UpmeTZcwN07iYcrIx/mdSUs+HobwC4umHZMyI="
+        }
+      ]
+    },
+    {
+      "Route": "js/chart.8da0j1485o.js",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAs1q+HRqodu1U0WPbg9bWIQNQFGzVoEz20kE3yquPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 09:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8da0j1485o"
+        },
+        {
+          "Name": "label",
+          "Value": "js/chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAs1q+HRqodu1U0WPbg9bWIQNQFGzVoEz20kE3yquPo="
+        }
+      ]
+    },
+    {
+      "Route": "js/chart.js",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fAs1q+HRqodu1U0WPbg9bWIQNQFGzVoEz20kE3yquPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 09:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fAs1q+HRqodu1U0WPbg9bWIQNQFGzVoEz20kE3yquPo="
+        }
+      ]
+    },
+    {
+      "Route": "js/download.edejgf8pff.js",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\download.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gju/0JOyacAi4LQZgm+hp7GnssCZLDpiDc1RppbrL/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 23:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "edejgf8pff"
+        },
+        {
+          "Name": "label",
+          "Value": "js/download.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gju/0JOyacAi4LQZgm+hp7GnssCZLDpiDc1RppbrL/M="
+        }
+      ]
+    },
+    {
+      "Route": "js/download.js",
+      "AssetFile": "C:\\СopyProject\\repos\\CarReduserBlazer\\CarReduserBlazer\\wwwroot\\js\\download.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gju/0JOyacAi4LQZgm+hp7GnssCZLDpiDc1RppbrL/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 23:20:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gju/0JOyacAi4LQZgm+hp7GnssCZLDpiDc1RppbrL/M="
+        }
+      ]
+    }
+  ]
+}

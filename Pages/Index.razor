@@ -1,0 +1,117 @@
+﻿@page "/reducer-tables"
+@using System.IO
+@using System.Text
+@using CarReduserBlazer.Data
+
+<h3>Таблица редукторов</h3>
+
+<button @onclick="SaveToFile">Сохранить в файл</button>
+
+@if (reducerTables.Count > 0)
+{
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Тип</th>
+                <th>Имя</th>
+                <th>Колеса</th>
+                <th>Передат. соотношение</th>
+                <th>Вход. крутящий момент (Nm)</th>
+                <th>Выход. крутящий момент (Nm)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var reducer in reducerTables)
+            {
+                <tr>
+                    <td>@reducer.Type</td>
+                    <td>@reducer.Name</td>
+                    <td>@reducer.NumberOfWheels</td>
+                    <td>@reducer.GearRatio</td>
+                    <td>@reducer.InputTorque.ToString("F2")</td>
+                    <td>@reducer.OutputTorque.ToString("F2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+  
+}
+else
+{
+    <p>Нет данных для отображения.</p>
+}
+
+@code {
+    private List<ReducerData> reducerTables = new List<ReducerData>();
+
+    protected override void OnInitialized()
+    {
+        Random random = new Random();
+
+        // Генерация 5 случайных редукторов тракторов
+        for (int i = 0; i < 5; i++)
+        {
+            int gearRatio = random.Next(3, 8);
+            double inputTorque = random.NextDouble() * 100;
+            reducerTables.Add(new ReducerData("Трактор", $"Трактор {i + 1}", 4, gearRatio, inputTorque));
+        }
+
+        // Генерация 5 случайных редукторов автомобилей
+        for (int i = 0; i < 5; i++)
+        {
+            int gearRatio = random.Next(3, 8);
+            double inputTorque = random.NextDouble() * 100;
+            reducerTables.Add(new ReducerData("Автомобиль", $"Автомобиль {i + 1}", 4, gearRatio, inputTorque));
+        }
+    }
+
+    private async Task SaveToFile()
+    {
+        StringBuilder sb = new StringBuilder();
+        sb.AppendLine("Таблица редукторов:");
+        sb.AppendLine("-----------------------------------------------------------");
+        sb.AppendLine($"{"Тип",-15} {"Имя",-15} {"Колеса",-8} {"Передат. соотношение",-20} {"Вход. крутящий момент (Nm)",-28} {"Выход. крутящий момент (Nm)",-30}");
+        sb.AppendLine("-----------------------------------------------------------");
+
+        foreach (var reducer in reducerTables)
+        {
+            sb.AppendLine($"{reducer.Type,-15} {reducer.Name,-15} {reducer.NumberOfWheels,-8} {reducer.GearRatio,-20} {reducer.InputTorque,-28:F2} {reducer.OutputTorque,-30:F2}");
+        }
+
+        sb.AppendLine("-----------------------------------------------------------");
+
+        // Сохраняем в файл
+        var fileName = "Reducertable.txt";
+        var bytes = Encoding.UTF8.GetBytes(sb.ToString());
+        using (var memoryStream = new MemoryStream(bytes))
+        {
+            // создаем поток для передачи файла в браузер
+            using (var streamRef = new DotNetStreamReference(stream: memoryStream))
+            {
+
+                //await JSRuntime.InvokeVoidAsync("downloadFile", fileName, streamRef);
+
+            }
+        }
+    }
+
+    private class ReducerData
+    {
+        public string Type { get; }
+        public string Name { get; }
+        public int NumberOfWheels { get; }
+        public int GearRatio { get; }
+        public double InputTorque { get; }
+        public double OutputTorque => InputTorque * GearRatio;
+
+        public ReducerData(string type, string name, int numberOfWheels, int gearRatio, double inputTorque)
+        {
+            Type = type;
+            Name = name;
+            NumberOfWheels = numberOfWheels;
+            GearRatio = gearRatio;
+            InputTorque = inputTorque;
+        }
+    }
+}
